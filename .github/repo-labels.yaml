@@ -1,0 +1,6 @@
+- name: hehe_bug
+  description: hehe bug
+  color: f29513
+- name: hello_bug
+  description: hello bug
+  color: f29513
