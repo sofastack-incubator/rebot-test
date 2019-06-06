@@ -1,1 +1,2 @@
 # rebot-test
+Hello, world!
